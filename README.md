@@ -20,14 +20,13 @@ The story board analyzes data for the period of September 2019 and September 202
 The steps to clean the data are captured and documented in the citi_bike.ipynb jupyter notebook file in this repository.
 
 **Conclusion**
-- People seem to ride more bikes in the summer than in the winter. 
-- September 2021 was the busiest month in terms of the number of bike rides and this Summer of 2021 was record-breaking summer for the Citi Bike program. 
+- People seem to ride more bikes during summer than winter. 
+- September 2021 was the busiest month in terms of the number of bike rides.
+- This past summer was record-breaking summer for the Citi Bike program. 
 - Grove Street in [Greenwich village ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fforbes-global-properties%2F2021%2F07%2F24%2Fexploring-greenwich-village-where-cultural-preservation-meets-renovation%2F&psig=AOvVaw0vvZafInN4HAjWH9VD2rSa&ust=1634007588299000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJja8uSuwfMCFQAAAAAdAAAAABAm)in Manhattan is the busiest station to start and end the journey.
-- Peak hours in Summers is 6 PM and in winters is 8 AM and betweeen 5 and 6 PM.
-- Since 2021 summer was one of the busiest summers of our program, I looked how it varied by Gender.
-- The number of subscribers has grown in the past 2 years, but we have seen the most signicant growth in casual riders.
-- The data in Python was clean considering some changes: in February 2021, CitiBike changed it's category name for User Type from  Subscriber/Customer to Member/Casual Ride. (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member).
-
+- Peak hours in Summers are 6 PM. In winters, the peak hours are 8 AM in the morning and 5-6 PM in the evening.
+- Since 2021 summer was one of the busiest summers of our program, I looked how it varied by gender. The prpgram stopped tracking gender end of 2020 so the Chart analyzes data only through December 2020. The majority of the bike riders are males. In 2020, due to the global pandemic, the number of rides significantly has decreased.
+- The number of subscribers has grown in the past 2 years. The most signicant growth occured in number of casual riders in the past 2 years -- it increased by 598% in 2020 and 110% in 2021 and the number of sunscribers/long term membership went down. The data in Python was cleaned considering some changes: in February 2021, CitiBike changed it's category name for User Type from  Subscriber/Customer to Member/Casual Ride. 
 
 
 
