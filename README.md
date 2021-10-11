@@ -15,6 +15,8 @@ Monthly CSV files (September 2019- September 2021) were collected from Citi Bike
 The link to Tableau story board is here:https://public.tableau.com/app/profile/asel6958/viz/CityBike_16333958185400/Story1#1. 
 
 The story board analyzes data for the period of September 2019 and September 2021.  The story board not only visualizes the Citi Bike's data for 2 years but also presents the impact of the global pandemic to the program operations. The analyzed csv files are stored in the Resources folder of this repository.
+![image](https://user-images.githubusercontent.com/84043141/136818622-aa68039b-e5f8-4dd0-837d-3204357d4cec.png)
+
 
 **Cleaning the data**
 The steps to clean the data are captured and documented in the citi_bike.ipynb jupyter notebook file in this repository.
